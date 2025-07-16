@@ -1,5 +1,4 @@
 # Project.voiceowl.ai
-# Task 
 # Microservice Deployment with GitHub Actions
 
 This guide helps you deploy a secure Node.js application with MongoDB using GitHub Actions, Docker, and security tools.
